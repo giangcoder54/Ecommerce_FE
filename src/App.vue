@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Welcome to the E-commerce Website</h1>
+  
     
      <router-view></router-view>
   
