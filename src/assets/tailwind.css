@@ -1,11 +1,7 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
-
-.inner-content {
-  overflow: auto !important;
+body{
+  @apply font-serif
 }
 
-.el-breadcrumb__inner {
-  color: #fff !important;
-}
